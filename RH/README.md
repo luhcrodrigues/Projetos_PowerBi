@@ -10,7 +10,7 @@
 ## Indicadores
 
 - Total de faltas;
-- Faltas por filial;
+- Faltas por  Departamento;
 - Média de gastos por filial (em termos de salário);
 - Salário por nome;
 - Total de despesas por área.
