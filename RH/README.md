@@ -15,6 +15,33 @@
 - Salário por nome;
 - Total de despesas por área.
 
+## Medidas
+O dashboard de RH contém as seguintes medidas:
+
+## Soma Salário
+
+A medida "Soma Salário" é usada para calcular o total de salários pagos pela empresa. A fórmula da medida é:
+
+- Soma Salário = SUM(FUNCIONARIOS[SALARIO])
+
+## TotalFaltas
+
+A medida "TotalFaltas" é usada para calcular o número total de faltas dos funcionários da empresa. A fórmula da medida é
+
+- TotalFaltas = SUM(FUNCIONARIOS[QTDE FALTA])
+
+## MédiaIdade
+
+A medida "MédiaIdade" é usada para calcular a média de idade dos funcionários da empresa. A fórmula da medida é:
+
+-  MédiaIdade = AVERAGE(FUNCIONARIOS[IDADE] )
+
+## SomaContratação
+
+A medida "SomaContratação" é usada para calcular o total de contratações feitas pela empresa. A fórmula da medida é:
+
+- SomaContratação = SUM(FUNCIONARIOS[CONTRATACÕES FEITAS] )
+
 ## Tecnologias
 
 - Power BI
