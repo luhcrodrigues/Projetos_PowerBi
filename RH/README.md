@@ -15,6 +15,15 @@
 - Salário por nome;
 - Total de despesas por área.
 
+##Medidas
+O dashboard de RH contém as seguintes medidas:
+
+Soma Salário
+A medida "Soma Salário" é usada para calcular o total de salários pagos pela empresa. A fórmula da medida é:
+
+
+
+
 ## Tecnologias
 
 - Power BI
