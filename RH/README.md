@@ -1,4 +1,4 @@
-O objetivo deste dashboard é fornecer informações úteis sobre as filiais da empresa, como:
+# O objetivo deste dashboard é fornecer informações úteis sobre as filiais da empresa, como:
 
 Identificar o maior número de faltas entre os funcionários;
 Identificar qual filial está tendo o maior gasto em termos de despesas;
