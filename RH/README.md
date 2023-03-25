@@ -18,25 +18,25 @@
 ## Medidas
 O dashboard de RH contém as seguintes medidas:
 
-# Soma Salário
+## Soma Salário
 
 A medida "Soma Salário" é usada para calcular o total de salários pagos pela empresa. A fórmula da medida é:
 
 - Soma Salário = SUM(FUNCIONARIOS[SALARIO])
 
-# TotalFaltas
+## TotalFaltas
 
 A medida "TotalFaltas" é usada para calcular o número total de faltas dos funcionários da empresa. A fórmula da medida é
 
 - TotalFaltas = SUM(FUNCIONARIOS[QTDE FALTA])
 
-# MédiaIdade
+## MédiaIdade
 
 A medida "MédiaIdade" é usada para calcular a média de idade dos funcionários da empresa. A fórmula da medida é:
 
 -  MédiaIdade = AVERAGE(FUNCIONARIOS[IDADE] )
 
-# SomaContratação
+## SomaContratação
 
 A medida "SomaContratação" é usada para calcular o total de contratações feitas pela empresa. A fórmula da medida é:
 
