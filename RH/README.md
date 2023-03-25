@@ -15,7 +15,7 @@
 - Salário por nome;
 - Total de despesas por área.
 
-##Medidas
+## Medidas
 O dashboard de RH contém as seguintes medidas:
 
 Soma Salário
