@@ -1,4 +1,4 @@
-# Dashboard de Análise de Filiais
+# Dashboard de Análise de RH
 
 ## Funcionalidades
 
