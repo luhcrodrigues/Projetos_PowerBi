@@ -19,19 +19,19 @@ O dashboard de INDICADORES contém as seguintes medidas:
 
 ## Quantidade de Produtos Vendidos
 
-A quantidade de produtos vendidos até a data atual é de
+A quantidade de produtos vendidos é de
 
 `{{SUM(INDICADORES[QUANTIDADE VENDIDA])}}`.
 
 ## Quantidade de Clientes
 
-O número de clientes únicos que realizaram compras até a data atual é de
+O número de clientes únicos que realizaram compras é de
 
 `{{DISTINCTCOUNT(INDICADORES[CODIGO])}}`.
 
 ## Faturamento
 
-O faturamento total até a data atual é de
+O faturamento total  é de
 
 `{{SUM(INDICADORES[Total Venda])}}`.
 
