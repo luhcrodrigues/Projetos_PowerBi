@@ -14,9 +14,26 @@
 - Faturamento por Indicador;
 
 ## Medidas
-O dashboard de RH contém as seguintes medidas:
+O dashboard de INDICADORES contém as seguintes medidas:
 
 
+## Quantidade de Produtos Vendidos
+
+A quantidade de produtos vendidos até a data atual é de
+
+`{{SUM(INDICADORES[QUANTIDADE VENDIDA])}}`.
+
+## Quantidade de Clientes
+
+O número de clientes únicos que realizaram compras até a data atual é de
+
+`{{DISTINCTCOUNT(INDICADORES[CODIGO])}}`.
+
+## Faturamento
+
+O faturamento total até a data atual é de
+
+`{{SUM(INDICADORES[Total Venda])}}`.
 
 ## Tecnologias
 
