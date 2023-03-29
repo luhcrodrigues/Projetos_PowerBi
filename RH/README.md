@@ -66,4 +66,12 @@ O uso do dashboard é intuitivo e fácil de entender. Cada visualização é int
 
 
 - https://app.powerbi.com/view?r=eyJrIjoiZWJmNzJhZjItNjVkZS00ZDUzLWJhNDktYzIxN2Q2ZDc3YTIyIiwidCI6ImJkYzMxODdjLTliOWQtNDcwOC05MDYxLTcyYmZlMTZjOWI5MyJ9
+
+
+
+
+
+
+
+
 ![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/RH/RH.png)
