@@ -44,9 +44,6 @@ A medida "SomaContratação" é usada para calcular o total de contratações fe
 
 
 
-
-## Link do Dashboard
-
 ## Tecnologias
 
 - Power BI
@@ -60,5 +57,9 @@ Para acessar o dashboard, basta abrir o arquivo .pbix usando o Power BI
 O uso do dashboard é intuitivo e fácil de entender. Cada visualização é interativa e permite filtrar dados e visualizar informações de diferentes maneiras. Basta selecionar a visualização desejada e começar a explorar os dados.
 
 
+
+
+
+## Link do Dashboard
 
 ![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/RH/RH.png)
