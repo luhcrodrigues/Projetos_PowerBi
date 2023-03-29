@@ -42,6 +42,11 @@ A medida "SomaContratação" é usada para calcular o total de contratações fe
 
 - SomaContratação = SUM(FUNCIONARIOS[CONTRATACÕES FEITAS] )
 
+
+
+
+## Link do Dashboard
+
 ## Tecnologias
 
 - Power BI
