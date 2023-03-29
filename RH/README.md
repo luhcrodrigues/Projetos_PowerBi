@@ -13,7 +13,8 @@
 - Faltas por  Departamento;
 - Média de gastos por filial (em termos de salário);
 - Salário por nome;
-- Total de despesas por área.
+- Total de despesas por área;
+- Funcionarios por gênero.
 
 ## Medidas
 O dashboard de RH contém as seguintes medidas:
