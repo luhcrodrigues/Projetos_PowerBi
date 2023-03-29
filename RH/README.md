@@ -60,3 +60,5 @@ Para acessar o dashboard, basta abrir o arquivo .pbix usando o Power BI
 O uso do dashboard é intuitivo e fácil de entender. Cada visualização é interativa e permite filtrar dados e visualizar informações de diferentes maneiras. Basta selecionar a visualização desejada e começar a explorar os dados.
 
 
+
+![teste](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
