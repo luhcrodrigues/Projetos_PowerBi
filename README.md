@@ -16,8 +16,9 @@ Para usar um dos projetos deste repositório, siga estas etapas:
 
 Aqui estão os projetos disponíveis neste repositório:
 
-- Projeto 1: Uma análise de RH.
-- Projeto 2: Em Desenvolvimento
+- Projeto 1: Análise de RH.
+- Projeto 2: Análise de Indicadores 
+- Projeto 2: Análise de Locação de Veiculos
 
 ## Contribuições
 
