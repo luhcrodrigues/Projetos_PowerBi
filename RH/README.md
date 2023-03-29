@@ -61,4 +61,4 @@ O uso do dashboard é intuitivo e fácil de entender. Cada visualização é int
 
 
 
-![teste](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
+![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/RH/RH.png)
