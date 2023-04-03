@@ -49,4 +49,4 @@ O uso do dashboard é intuitivo e fácil de entender. Cada visualização é int
 
 
 
-![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/RH/RH.png)
+![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/INDICADORES/imagemdash.png)
