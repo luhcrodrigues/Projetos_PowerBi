@@ -47,6 +47,6 @@ Para acessar o dashboard, basta abrir o arquivo .pbix usando o Power BI
 
 O uso do dashboard é intuitivo e fácil de entender. Cada visualização é interativa e permite filtrar dados e visualizar informações de diferentes maneiras. Basta selecionar a visualização desejada e começar a explorar os dados.
 
-
+<iframe title="Cancelamento de Reservas em Hoteis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjZmMjJjYTgtNmU1MC00YTQ1LWE2YzAtZmNiZjgwOTFmMWRhIiwidCI6ImJkYzMxODdjLTliOWQtNDcwOC05MDYxLTcyYmZlMTZjOWI5MyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ![teste](https://github.com/luhcrodrigues/Projetos_PowerBi/blob/main/INDICADORES/imagemdash.png)
